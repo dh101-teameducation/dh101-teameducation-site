@@ -1,29 +1,12 @@
-# Rspress website
+# DH101 Editorial site
 
-## Setup
+This is the static HTML5 UP Editorial site published to GitHub Pages from this
+directory. It does not need an npm install or build step.
 
-Install the dependencies:
+To preview it locally, open `index.html` in a browser or run a local static
+server from this directory.
 
-```bash
-npm install
-```
-
-## Get started
-
-Start the dev server:
-
-```bash
-npm run dev
-```
-
-Build the website for production:
-
-```bash
-npm run build
-```
-
-Preview the production build locally:
-
-```bash
-npm run preview
-```
+The pages and images currently contain the Editorial demo content. Replace
+demo text and imagery with verified project content and appropriately licensed
+media before presenting the site. Keep the attribution and license in
+`LICENSE.txt`.
